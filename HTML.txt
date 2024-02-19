@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+--> Document type html
+
+<html lang="en">
+--> in html we use English lang.
+
+<head>
+    <meta charset="UTF-8">
+    encoding
+    What is the full form of UTF? --> Unicode tra Formate    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
