@@ -55,3 +55,8 @@ high light ==> <mark>
 
 
 in paragraph tag we write lorem100 short cut --> then we got a 100 words paragraph
+
+
+br ==> break the cont line 
+
+&nbsp; ==> Space between two fonts and images all other things 
