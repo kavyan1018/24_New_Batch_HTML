@@ -77,6 +77,17 @@ ther is total 2 Ways to insert Images
      -->
 
 
+How to set background Image ?
+
+--> same as pr image tag 
+
+We can use text tag for change color of all fonts in my website
+
+i want to change ma background color in my website
+
+--> bgcolor     Color Piker website:- https://colorhunt.co/
+
+
 Marquee tag– moving text, image, behavior = “scroll”, “slide”,“alternate”; 
                                 direction = “left”, “right”, “up”, “down”; 
                                 scrollamount = “20”;
