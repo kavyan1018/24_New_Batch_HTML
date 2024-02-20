@@ -56,7 +56,34 @@ high light ==> <mark>
 
 in paragraph tag we write lorem100 short cut --> then we got a 100 words paragraph
 
+hr --> horizontal rule
 
 br ==> break the cont line 
 
 &nbsp; ==> Space between two fonts and images all other things 
+
+
+ther is total 2 Ways to insert Images   
+
+ <!-- 1st way to insert image  
+        1st Way is insert image from google
+
+        what is src ?  ==> source
+        what is alt ? ==> altranet
+    -->
+
+ <!-- 
+        2nd way is insert image from download 
+     -->
+
+
+Marquee tag– moving text, image, behavior = “scroll”, “slide”,“alternate”; 
+                                direction = “left”, “right”, “up”, “down”; 
+                                scrollamount = “20”;
+
+
+
+// Narendra Modi-Images  in center 
+// Name - Name in center
+// hr
+// in paragraph u have to write 50 lines at NM
