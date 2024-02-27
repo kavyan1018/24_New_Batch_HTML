@@ -98,3 +98,12 @@ Marquee tag– moving text, image, behavior = “scroll”, “slide”,“alter
 // Name - Name in center
 // hr
 // in paragraph u have to write 50 lines at NM
+
+
+// Cafe Index Page
+
+----------------------List Tags-----------------
+
+li ==> List Items
+ol ==> order List
+ul ==> unorder List
