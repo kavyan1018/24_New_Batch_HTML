@@ -113,3 +113,11 @@ ul ==> unorder List
 <a></a>  ==> Blank tag
 
 href ==> Ancer tag
+
+---------------Table Tags-----------------------
+
+tr ==> Table Row
+td ==> Table Data
+th ==> Table Head
+
+border ==> To get table border
