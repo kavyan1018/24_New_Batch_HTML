@@ -107,3 +107,9 @@ Marquee tag– moving text, image, behavior = “scroll”, “slide”,“alter
 li ==> List Items
 ol ==> order List
 ul ==> unorder List
+
+---------------Anchor tag------------------
+
+<a></a>  ==> Blank tag
+
+href ==> Ancer tag
